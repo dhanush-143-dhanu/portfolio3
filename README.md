@@ -39,9 +39,9 @@ import VideoIntro from '@/components/VideoIntro';
 export default function Page() {
   return (
     <VideoIntro
-      tagline="Frontend Engineer & Creative Technologist"
-      firstName="Alex"
-      lastName="Rivera"
+      tagline="computer science and engeneering"
+      firstName="dhanush"
+      lastName="vishwanathan rk"
       subtitle="Your subtitle copy here."
       nextSectionId="work"
     />
